@@ -14,7 +14,8 @@ namespace PZ6
         {
             InitializeComponent();
         }
-       
+        //ДЕЛАЮ КОММЕНТАРИЙ ДЛЯ ПРОВЕРКИ
+        // ЕЩЕ ОДИН ХЕ ХЕ ХЕ
         private void Form1_Load(object sender, EventArgs e)
         {
       
